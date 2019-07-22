@@ -1,0 +1,42 @@
+// input {
+//   border-radius: 18px;
+// }
+
+.icons-input {
+    position: relative;
+    // color: #aaa;
+    font-size: 16px;
+    width:70%
+  }
+  
+  .icons-input input {
+    // width: 250px;
+    // height: 32px;
+  
+    // background: #fcfcfc;
+    // border: 1px solid #aaa;
+    border-radius: 18px;
+    // box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+  }
+  
+  .icons-input input {
+    text-indent: 32px;
+  }
+  
+  .icons-input .icons {
+    position: absolute;
+    top: 24%;
+    left: 10px;
+  }
+select{
+  border-radius: 18px;
+
+}  
+.customCol{
+  padding:80px
+}
+.customContent{
+  text-align: center;
+  justify-content: center;
+  
+}
